@@ -1,5 +1,5 @@
 ## Welcome to Xingzhi Guo's Homepage
-![xingzhi-profile](/imgs/profile-xingzhi.jpeg "Xingzhi")
+![xingzhi-profile](/imgs/profile-xingzhi.png "Xingzhi")
 ## Research Interest
 Graph representation learning, Deep learning applications on NLP/Dialogue Agent, Optimization
 
