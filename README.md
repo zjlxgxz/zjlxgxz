@@ -26,10 +26,10 @@ Graph representation learning, Deep learning applications on NLP/Dialogue Agent,
 ## Publication
 - Guo X., Kondracki B., Nikiforakis N., S., Skiena S., Verba Volant, Scripta Volant: Understanding Post- publication Title Changes in News Outlets, ACM Web Conference (WWW) 2022 (_A cute investigation about why/how news agents did post-publication modification_ 😀)
 - Guo X., Zhou B., Skiena S., Subset Node Representation Learning over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2021  (_A very cool, useful **non-deep** learning algorithm for semi-novel practical graph learning problem_ 😎)
--  K Gillespie, I.C. Konstantakopoulos, Guo X., Vasudevan VT., and Sethy A. "Improving device directedness classification of utterances with semantic lexical features." Speech, & Signal Processing (ICASSP)2020
+-  K Gillespie, I.C. Konstantakopoulos, Guo X., Vasudevan VT., and Sethy A. "Improving device directedness classification of utterances with semantic lexical features." Speech, & Signal Processing (ICASSP)2020 (_From my first internship, thanks to all teammates_ 🍻!)
 -  Guo X., Huang Y., Gamborino E., Tseng SH., Fu LC., and Yeh SL., "Inferring human feelings and desires for
-human-robot trust promotion." International Conference on Human-Computer Interaction (HCII)2019
-- Chiang SY., Guo X., and Hu HW., "Real time self-localization of omni-vision robot by pattern match system." International conference on Advanced Robotics and Intelligent Systems (ARIS) 2014
+human-robot trust promotion." International Conference on Human-Computer Interaction (HCII)2019 (_Part of my master thesis. Missing Taipei so much 🧋_ )
+- Chiang SY., Guo X., and Hu HW., "Real time self-localization of omni-vision robot by pattern match system." International conference on Advanced Robotics and Intelligent Systems (ARIS) 2014 (_My very first paper when I was an undergrad, and devoted almost entire 3 years in making a team of cool [robots](https://www.youtube.com/watch?v=TWU0rhDw-DQ) from scratch (both software/hardware)[More Video](https://www.youtube.com/watch?v=vum8fPhUUZk)_ 🤖🤩  )
 
 ## Manuscript
 - Guo X., Zhou B., Skiena S., _**anomaylous submission**_ to KDD 2022 (will reveal by May 2022 🤞)
