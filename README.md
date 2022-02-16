@@ -15,8 +15,14 @@ Graph representation learning, Deep learning applications on NLP/Dialogue Agent,
 - Applied Scientist (Intern), Summer 2019/2020/2021  
     _Alexa AI, Amazon, Seattle, WA_
 
-## Service
+## Academic Service
 - Reviewer ICWSM2022
+
+
+## Presentation
+- [COVID-19 Research Lightning Talk](https://www.youtube.com/watch?v=NEW1TU2Dqp4)
+- [KDD-2021 Recording](https://dl.acm.org/doi/abs/10.1145/3447548.3467393#)
+
 
 ## Publication
 - Guo X., Kondracki B., Nikiforakis N., S., Skiena S., Verba Volant, Scripta Volant: Understanding Post- publication Title Changes in News Outlets, ACM Web Conference (WWW) 2022
