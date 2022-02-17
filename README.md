@@ -33,7 +33,7 @@ Graph representation learning, Deep learning applications on NLP/Dialogue Agent,
 
 
 ## Publication
-- Guo X., Kondracki B., Nikiforakis N., S., Skiena S., Verba Volant, Scripta Volant: Understanding Post- publication Title Changes in News Outlets, ACM Web Conference (WWW) 2022 (_A cute investigation about why/how news agents did post-publication modification_ 😀)
+- Guo X., Kondracki B., Nikiforakis N., S., Skiena S., Verba Volant, Scripta Volant: Understanding Post- publication Title Changes in News Outlets, ACM Web Conference (WWW) 2022 (_A cute investigation about why/how news agencies did post-publication modification_ 😀)
 - Guo X., Zhou B., Skiena S., Subset Node Representation Learning over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2021  (_A very cool, useful **non-deep** learning algorithm for semi-novel practical graph learning problem_ 😎)
 -  K Gillespie, I.C. Konstantakopoulos, Guo X., Vasudevan VT., and Sethy A. "Improving device directedness classification of utterances with semantic lexical features." Speech, & Signal Processing (ICASSP)2020 (_From my first internship, thanks to all teammates_ 🍻!)
 -  Guo X., Huang Y., Gamborino E., Tseng SH., Fu LC., and Yeh SL., "Inferring human feelings and desires for
