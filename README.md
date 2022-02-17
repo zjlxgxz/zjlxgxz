@@ -1,15 +1,24 @@
 ## Welcome to Xingzhi Guo's Homepage
-![xingzhi-profile](imgs/profile-xingzhi.png "Xingzhi")
+
+Me in 2018, unknown street in Manhattan          |  Something about me
+:-------------------------:|:-------------------------:
+<img src="imgs/profile-xingzhi.png" alt="drawing" width="250"/>  |  My name is Xingzhi Guo (郭,[行之](https://baike.baidu.com/item/%E5%8D%9A%E5%AD%A6%E4%B9%8B%EF%BC%8C%E5%AE%A1%E9%97%AE%E4%B9%8B%EF%BC%8C%E6%85%8E%E6%80%9D%E4%B9%8B%EF%BC%8C%E6%98%8E%E8%BE%A8%E4%B9%8B%EF%BC%8C%E7%AC%83%E8%A1%8C%E4%B9%8B/10883328)). <br /> I was born and raised in [Lanxi](https://en.wikipedia.org/wiki/Lanxi,_Zhejiang). <br /> It's a charming tiny town, east-central China <br /> I spent 7 years in Taiwan 🎓🥟🧋🤤 <br /> Now doing PhD in [Long Island](https://en.wikipedia.org/wiki/Long_Island), New York 🗽🌆.
+
+
+
+
 ## Research Interests
 Graph representation learning, Deep learning applications on NLP/Dialogue Agent, Optimization
 
 ## Education
-- PhD in Computer Science, 2018.8 - 2023.6 (expected)  
-    _Data Science Lab, Stony Brook University, New York_
-- MS in Computer Science and Information Engineering,  2015.9 - 2018.7  
-    _Intelligent Robot Lab, National Taiwan University, Taiwan_
-- BS in Telecommunication and Information Engineering,  2011.9 - 2015.7  
-    _Robotics Research Center, Ming Chuan University, Taiwan_
+- Ph.D. in Computer Science, 2018.8 - 2023.6 (expected)  
+    _Supervised by [Prof.Steven Skiena](https://www3.cs.stonybrook.edu/~skiena/), Data Science Lab, Stony Brook University, New York_
+- M.S. in Computer Science and Information Engineering,  2015.9 - 2018.7  
+    _Supervised by [Prof.Li-Chen Fu](https://robotlab.csie.ntu.edu.tw/about/professor), Intelligent Robot Lab, National Taiwan University, Taiwan_
+- B.S. in Telecommunication and Information Engineering,  2011.9 - 2015.7  
+    _Supervised by [Prof.Shu-Yin Chiang](https://www2.mcu.edu.tw/ePortfolio/Common/Empno.aspx?t=799), Robotics Research Center, Ming Chuan University, Taiwan_
+    
+
 
 ## Work Experience
 - Applied Scientist (Intern), Summer 2019/2020/2021  
