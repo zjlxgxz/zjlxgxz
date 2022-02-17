@@ -43,7 +43,7 @@ human-robot trust promotion." International Conference on Human-Computer Interac
 ## Manuscript
 - Guo X., Zhou B., Skiena S., _**anonymous submission**_ to KDD 2022 (will reveal by May 2022 🤞)
 - Guo X., Zhou B., Chen H., Verstyuk S., Skiena S., Why Do Embedding Spaces Look as They do? (_An ambitious idea of embedding invariants, but rejected from ICLR22_ 😥 need revision)
-- Guo X., Jones JJ., Skiena S., The Power of Self-Description: How Personal Biographies Inform and Evolve (_ An interesting work on novel Twitter data, but rejected from ICWSM22_ 😥 revision+rework )
+- Guo X., Jones JJ., Skiena S., The Power of Self-Description: How Personal Biographies Inform and Evolve (_An interesting work on novel Twitter data, but rejected from ICWSM22_ 😥 revision+rework )
 - Guo X., Skiena S., Hierarchies over Vector Space: Orienting Word and Graph Embeddings (_A small cute idea, but rejected from ACL/EMNLP/NAACL_ 😂 _R.I.P._)
 - Sultan SF., Guo X., Skiena S., Low-Dimensional Genotype Embeddings for Predictive Models.
 - Lin Z., Feng L., Guo X., Yin R., Kwoh CK., C Xu. "COMET: Convolutional Dimension Interaction for Deep
