@@ -8,7 +8,7 @@ Me in 2018, unknown street in Manhattan          |  Something about me
 
 
 ## Research Interests
-Graph representation learning, Deep learning applications on NLP/Dialogue Agent, Optimization
+Graph representation learning, Deep learning applications for NLP/Dialogue Agent, Optimization
 
 ## Education
 - Ph.D. in Computer Science, 2018.8 - 2023.6 (expected)  
@@ -25,7 +25,7 @@ Graph representation learning, Deep learning applications on NLP/Dialogue Agent,
     _Alexa AI, Amazon, Seattle, WA_
 
 ## Academic Service
-- Reviewer ICWSM2022
+- Reviewer KDD2022, ICWSM2022
 
 ## Presentations
 - [COVID-19 Research Lightning Talk](https://www.youtube.com/watch?v=NEW1TU2Dqp4)
