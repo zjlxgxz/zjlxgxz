@@ -35,13 +35,19 @@ Graph representation learning, Deep learning applications for NLP/Dialogue Agent
 
 
 ## Publications
-- **Guo X.**, Zhou B., Skiena S., Subset Node Anomaly Tracking over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2022  (_Extending from our previous KDD21 work to weighted graphs and track either subset node or graph-level anomlies over large dynamic graphs_ 😎)
-- **Guo X.**, Kondracki B., Nikiforakis N., S., Skiena S., Verba Volant, Scripta Volant: Understanding Post- publication Title Changes in News Outlets, ACM Web Conference (WWW) 2022 (_A cute investigation about why/how news agencies did post-publication modification_ 😀)
-- **Guo X.**, Zhou B., Skiena S., Subset Node Representation Learning over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2021  (_A very cool, useful **non-deep** learning algorithm for semi-novel practical graph learning problem_ 😎)
--  K Gillespie, I.C. Konstantakopoulos, **Guo X.**, Vasudevan VT., and Sethy A. "Improving device directedness classification of utterances with semantic lexical features." Speech, & Signal Processing (ICASSP)2020 (_From my first internship, thanks to all teammates_ 🍻!)
+- **Guo X.**, Zhou B., Skiena S., Subset Node Anomaly Tracking over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2022  
+    - _Fast algorithm to track both subset node/graph-level anomlies over large dynamic weighted graphs_ 😎
+- **Guo X.**, Kondracki B., Nikiforakis N., S., Skiena S., Verba Volant, Scripta Volant: Understanding Post- publication Title Changes in News Outlets, ACM Web Conference (WWW) 2022 
+    - _A cute investigation about why/how news agencies did post-publication modification_ 😀
+- **Guo X.**, Zhou B., Skiena S., Subset Node Representation Learning over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2021  
+    - _A very cool, useful **non-deep** fast learning algorithm for semi-novel practical graph learning problem_ 😎
+-  K Gillespie, I.C. Konstantakopoulos, **Guo X.**, Vasudevan VT., and Sethy A. "Improving device directedness classification of utterances with semantic lexical features." Speech, & Signal Processing (ICASSP)2020 
+    -  _Detect whether user is talking to Alexa. From my first internship, thanks to all teammates_ 🍻!
 -  **Guo X.**, Huang Y., Gamborino E., Tseng SH., Fu LC., and Yeh SL., "Inferring human feelings and desires for
-human-robot trust promotion." International Conference on Human-Computer Interaction (HCII)2019 (_Part of my master thesis. Missing Taipei so much 🧋_ )
-- Chiang SY., **Guo X.**, and Hu HW., "Real time self-localization of omni-vision robot by pattern match system." International conference on Advanced Robotics and Intelligent Systems (ARIS) 2014 (_My very first paper when I was an undergrad, and devoted almost entire 3 years in making a team of cool [robots](https://www.youtube.com/watch?v=TWU0rhDw-DQ) from scratch (both software/hardware)[More Video](https://www.youtube.com/watch?v=vum8fPhUUZk)_ 🤖🤩  )
+human-robot trust promotion." International Conference on Human-Computer Interaction (HCII)2019 
+    - _Promoting human-robot trust by identifying human-desire in converssations. Part of my master thesis. Missing Taipei so much 🧋_ 
+- Chiang SY., **Guo X.**, and Hu HW., "Real time self-localization of omni-vision robot by pattern match system." International conference on Advanced Robotics and Intelligent Systems (ARIS) 2014 
+    - _My very first paper when I was an undergrad, and devoted almost entire 3 years in making a team of cool [robots](https://www.youtube.com/watch?v=TWU0rhDw-DQ) from scratch (both software/hardware)[More Video](https://www.youtube.com/watch?v=vum8fPhUUZk)_ 🤖🤩  
 
 ## Manuscripts
 - **Guo X.**, Jones JJ., Skiena S., The Power of Self-Description: How Personal Biographies Inform and Evolve (_An interesting work on novel Twitter data about self-identity, but rejected from ICWSM22_ 😥 need revision+rework )
