@@ -52,6 +52,7 @@ human-robot trust promotion." International Conference on Human-Computer Interac
     - _My very first paper when I was an undergrad, and devoted almost entire 3 years in making a team of cool [robots](https://www.youtube.com/watch?v=TWU0rhDw-DQ) from scratch (both software/hardware)[More Video](https://www.youtube.com/watch?v=vum8fPhUUZk)_ 🤖🤩  
 
 ## Manuscripts
+- Borca-Tasciuc G., **Guo X.**, Bak S., Skiena S., Anonymous submission to ICDM2022🤞
 - **Guo X.**, Jones JJ., Skiena S., The Power of Self-Description: How Personal Biographies Inform and Evolve (_An interesting work on novel Twitter data about self-identity, but rejected from ICWSM22_ 😥 need revision+rework )
 - **Guo X.**, Zhou B., Chen H., Verstyuk S., Skiena S., Why Do Embedding Spaces Look as They do? (_An ambitious idea of embedding invariants, but rejected from ICLR22_ 😥 need revision)
 - **Guo X.**, Skiena S., Hierarchies over Vector Space: Orienting Word and Graph Embeddings (_A small cute idea, but rejected from ACL/EMNLP/NAACL_ 😂 _R.I.P._)
