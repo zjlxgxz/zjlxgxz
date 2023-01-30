@@ -25,7 +25,7 @@ Graph representation learning, Deep learning applications for NLP/Dialogue Agent
     _Alexa AI, Amazon, Seattle, WA_
 
 ## Academic Service
-- Program Committee KDD2022, ICWSM2022
+- Program Committee KDD2022/23, ICWSM2022
 
 ## Presentations
 - [WWW2022 Post-publication modification of News titles](https://www.youtube.com/watch?v=Yb0Wx1l8jak)
