@@ -52,10 +52,10 @@ human-robot trust promotion." International Conference on Human-Computer Interac
 - Chiang SY., **Guo X.**, and Hu HW., "Real time self-localization of omni-vision robot by pattern match system." International conference on Advanced Robotics and Intelligent Systems (ARIS) 2014 (Short) 
     - _My very first paper when I was an undergrad, and devoted almost entire 3 years in making a team of cool [robots](https://www.youtube.com/watch?v=TWU0rhDw-DQ) from scratch (both software/hardware)[More Video](https://www.youtube.com/watch?v=vum8fPhUUZk)_ 🤖🤩  
 
-## Manuscripts
+## Manuscripts in submission
 -  **Guo X.**, Zhou B., Skiena S., Anonymous submission to KDD23
 -  Chen Z., **Guo X.**, Zhou B., Yang D., Skiena S., Anonymous submission to KDD23
 - Borca-Tasciuc G., **Guo X.**, Bak S., Skiena S., Anonymous submission 
 - **Guo X.**, Skiena S., Hierarchies over Vector Space: Orienting Word and Graph Embeddings (_A small cute idea, in submission_)
-- **Guo X.**, Jones JJ., Skiena S., The Power of Self-Description: How Personal Biographies Inform and Evolve (_An interesting work on novel Twitter data about self-identity, in submission )
+- **Guo X.**, Jones JJ., Skiena S., The Power of Self-Description: How Personal Biographies Inform and Evolve (_An interesting work on novel Twitter data about self-identity, in submission_ )
 - **Guo X.**, Zhou B., Chen H., Verstyuk S., Skiena S., Why Do Embedding Spaces Look as They do? (_An ambitious idea of embedding invariants, but rejected from ICLR22_ 😥 need revision)
