@@ -11,7 +11,7 @@ Me in 2018, unknown street in Manhattan          |  Something about me
 Graph representation learning, Deep learning applications for NLP/Dialogue Agent, Optimization
 
 ## Education
-- Ph.D. in Computer Science, 2018.8 - 2023.6 (expected)  
+- Ph.D. in Computer Science, 2018.8 - 2023.5  
     _GPA 4.0/4.0; Supervised by [Prof.Steven Skiena](https://www3.cs.stonybrook.edu/~skiena/) @Data Science Lab, Stony Brook University, New York_
 - M.S. in Computer Science and Information Engineering,  2015.9 - 2018.7  
     _GPA 3.9/4.0; Supervised by [Prof.Li-Chen Fu](https://robotlab.csie.ntu.edu.tw/about/professor) @Intelligent Robot Lab, National Taiwan University, Taiwan_
@@ -21,11 +21,13 @@ Graph representation learning, Deep learning applications for NLP/Dialogue Agent
 
 
 ## Work Experience
+- Applied Scientist (Full-time), 2023.7 - present  
+    _Alexa AI, Amazon, Bellevue, WA_
 - Applied Scientist (Intern), Summer 2019/2020/2021/2022  
     _Alexa AI, Amazon, Seattle, WA_
 
 ## Academic Service
-- Program Committee KDD2022/23, PAKDD2023, ICWSM2022/23, CSCW2023
+- Program Committee KDD2022/23, CIKM2023, PAKDD2023, ICWSM2022/23
 
 ## Presentations
 - [WWW2022 Post-publication modification of News titles](https://www.youtube.com/watch?v=Yb0Wx1l8jak)
@@ -35,6 +37,8 @@ Graph representation learning, Deep learning applications for NLP/Dialogue Agent
 
 
 ## Publications
+- Chen Z., **Guo X.**, Zhou B.*, Yang D., Skiena S., Accelerating Personalized PageRank Vector Computation, ACM Knowledge Discovery and Data Mining (KDD)2023 (Long)
+    - _Make faster PPR approximation by introducing theoretically justifiable one-line-change. *:corresponding author_
 - Sultan SF., **Guo X.**, Skiena S., Low-Dimensional Genotype Embeddings for Predictive Models, ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022 (Short)
     - _Embed ~100K-dimensional SNPs of human chromosomes to a few hundreds dimensions while preserving predictive power and privacy._ 🧬
 - **Guo X.**, Zhou B., Skiena S., Subset Node Anomaly Tracking over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2022 (Long) 
@@ -54,7 +58,6 @@ human-robot trust promotion." International Conference on Human-Computer Interac
 
 ## Manuscripts in submission
 -  **Guo X.**, Zhou B., Skiena S., Anonymous submission to KDD23
--  Chen Z., **Guo X.**, Zhou B., Yang D., Skiena S., Anonymous submission to KDD23
 - Borca-Tasciuc G., **Guo X.**, Bak S., Skiena S., Anonymous submission 
 - **Guo X.**, Skiena S., Hierarchies over Vector Space: Orienting Word and Graph Embeddings (_A small cute idea, in submission_)
 - **Guo X.**, Jones JJ., Skiena S., The Power of Self-Description: How Personal Biographies Inform and Evolve (_An interesting work on novel Twitter data about self-identity, in submission_ )
