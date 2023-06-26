@@ -1,8 +1,8 @@
 ## Welcome to Xingzhi (Jacky) Guo's Homepage
 
-Me in 2018, unknown street in Manhattan          |  Something about me
+Me in 2018, an unknown street in Manhattan          |  Something about me
 :-------------------------:|:-------------------------:
-<img src="imgs/profile-xingzhi.png" alt="drawing" width="250"/>  |  My name is Xingzhi (Jacky) Guo (郭,[行之](https://baike.baidu.com/item/%E5%8D%9A%E5%AD%A6%E4%B9%8B%EF%BC%8C%E5%AE%A1%E9%97%AE%E4%B9%8B%EF%BC%8C%E6%85%8E%E6%80%9D%E4%B9%8B%EF%BC%8C%E6%98%8E%E8%BE%A8%E4%B9%8B%EF%BC%8C%E7%AC%83%E8%A1%8C%E4%B9%8B/10883328)). <br /> I was born and raised in [Lanxi](https://en.wikipedia.org/wiki/Lanxi,_Zhejiang). <br /> It's a charming tiny town, east-central China <br /> I spent 7 years in Taiwan 🎓🥟🧋🤤 <br /> Now doing PhD in [Long Island](https://en.wikipedia.org/wiki/Long_Island), New York 🗽🌆.
+<img src="imgs/profile-xingzhi.png" alt="drawing" width="250"/>  |  My name is Xingzhi (Jacky) Guo (郭,[行之](https://baike.baidu.com/item/%E5%8D%9A%E5%AD%A6%E4%B9%8B%EF%BC%8C%E5%AE%A1%E9%97%AE%E4%B9%8B%EF%BC%8C%E6%85%8E%E6%80%9D%E4%B9%8B%EF%BC%8C%E6%98%8E%E8%BE%A8%E4%B9%8B%EF%BC%8C%E7%AC%83%E8%A1%8C%E4%B9%8B/10883328)). <br /> I was born and raised in [Lanxi](https://en.wikipedia.org/wiki/Lanxi,_Zhejiang). <br /> It's a charming tiny town, east-central China <br /> I spent 7 years in Taiwan 🎓🥟🧋🤤 <br /> Finished  PhD in [Long Island](https://en.wikipedia.org/wiki/Long_Island), New York 🗽🌆. <br /> Now working at Amazon in Bellevue, WA 🏞🌧 . 
 
 
 
