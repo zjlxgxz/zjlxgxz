@@ -39,6 +39,8 @@ Graph representation learning, Deep learning applications for NLP/Dialogue Agent
 ## Publications
 - Chen Z., **Guo X.**, Zhou B.*, Yang D., Skiena S., Accelerating Personalized PageRank Vector Computation, ACM Knowledge Discovery and Data Mining (KDD)2023 (Long)
     - _Make faster PPR approximation by introducing theoretically justifiable one-line-change. *:corresponding author_
+- Borca-Tasciuc G., **Guo X.**, Bak S., Skiena S., Provable Fairness for Neural Network Models using Formal Verification, European Workshop on Algorithmic Fairnes 2023 (Short)
+    - _Proposed fairness metrics using Formal Verification to evaluate the neural classifiers fairness without any testing data sample_ 
 - Sultan SF., **Guo X.**, Skiena S., Low-Dimensional Genotype Embeddings for Predictive Models, ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022 (Short)
     - _Embed ~100K-dimensional SNPs of human chromosomes to a few hundreds dimensions while preserving predictive power and privacy._ 🧬
 - **Guo X.**, Zhou B., Skiena S., Subset Node Anomaly Tracking over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2022 (Long) 
@@ -57,8 +59,7 @@ human-robot trust promotion." International Conference on Human-Computer Interac
     - _My very first paper when I was an undergrad, and devoted almost entire 3 years in making a team of cool [robots](https://www.youtube.com/watch?v=TWU0rhDw-DQ) from scratch (both software/hardware)[More Video](https://www.youtube.com/watch?v=vum8fPhUUZk)_ 🤖🤩  
 
 ## Manuscripts in submission
--  **Guo X.**, Zhou B., Skiena S., Anonymous submission to KDD23
-- Borca-Tasciuc G., **Guo X.**, Bak S., Skiena S., Anonymous submission 
+-  **Guo X.**, Zhou B., Skiena S., Anonymous submission to CIKM23
 - **Guo X.**, Skiena S., Hierarchies over Vector Space: Orienting Word and Graph Embeddings (_A small cute idea, in submission_)
 - **Guo X.**, Jones JJ., Skiena S., The Power of Self-Description: How Personal Biographies Inform and Evolve (_An interesting work on novel Twitter data about self-identity, in submission_ )
 - **Guo X.**, Zhou B., Chen H., Verstyuk S., Skiena S., Why Do Embedding Spaces Look as They do? (_An ambitious idea of embedding invariants, but rejected from ICLR22_ 😥 need revision)
