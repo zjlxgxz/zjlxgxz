@@ -22,12 +22,45 @@ Graph representation learning, Deep learning applications for NLP/Dialogue Agent
 
 ## Work Experience
 - Applied Scientist (Full-time), 2023.7 - present  
-    _Alexa AI, Amazon, Bellevue, WA_
+    _@Artificial General Intelligence (previously Alexa AI), Amazon, Bellevue, WA_
+   - Topics: LLM for Proactive Agent and RecSys 
 - Applied Scientist (Intern), Summer 2019/2020/2021/2022  
-    _Alexa AI, Amazon, Seattle, WA_
+    _@Alexa AI, Amazon, Seattle, WA_
+    - Topics: Dialogue directedness classification, Active learning, Pretraining (L)LM, Non-autoregressive (L)LM
 
 ## Academic Service
 - Program Committee KDD2022/23, CIKM2023, PAKDD2023, ICWSM2022/23
+
+## Publications
+
+- **Guo X.**,  Handzlik D, Jones JJ., Skiena S., The Evolution of Occupational Identity in Twitter Biographies, The International AAAI Conference on Web and Social Media (ICWSM) 2024 (Long)
+    - _We collect and analyze the biography changes of 50 million Twitter users from 2015 to 2021, using their bios as a proxy for self-identity, with a focus on work identity._
+- Zhang C., Xiang W., **Guo X.**, Zhou B., Yang D., SubAnom: Efficient Subgraph Anomaly Detection Framework over Dynamic Graphs, Workshop of Graph Learning on Graphs (MLoG) at The IEEE International Conference on Data Mining (ICDM) 2023.
+- Chen Z., **Guo X.**, Zhou B.*, Yang D., Skiena S., Accelerating Personalized PageRank Vector Computation, ACM Knowledge Discovery and Data Mining (KDD)2023 (Long)
+    - _Make faster PPR approximation by introducing theoretically justifiable three-line change. *:corresponding author_
+- Borca-Tasciuc G., **Guo X.**, Bak S., Skiena S., Provable Fairness for Neural Network Models using Formal Verification, European Workshop on Algorithmic Fairness 2023 (Short)
+    - _Proposed fairness metrics using Formal Verification to evaluate the neural classifiers' fairness without any testing data sample_
+- Lin Z., Feng L., **Guo X.**, Yin R., Kwoh CK., C Xu. "COMET: Convolutional Dimension Interaction for Deep Matrix Factorization." ACM Transactions on Intelligent Systems and Technology(2023)
+- Sultan SF., **Guo X.**, Skiena S., Low-Dimensional Genotype Embeddings for Predictive Models, ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022 (Short)
+    - _Embed ~100K-dimensional SNPs of human chromosomes to a few hundreds dimensions while preserving predictive power and privacy._ 🧬
+- **Guo X.**, Zhou B., Skiena S., Subset Node Anomaly Tracking over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2022 (Long) 
+    - _Fast algorithm to track both subset node/graph-level anomalies over large dynamic weighted graphs_ 😎
+- **Guo X.**, Kondracki B., Nikiforakis N., S., Skiena S., Verba Volant, Scripta Volant: Understanding Post-publication Title Changes in News Outlets, ACM Web Conference (WWW) 2022 (Long) 
+    - _A cute investigation about why/how news agencies did post-publication modification_ 😀
+- **Guo X.**, Zhou B., Skiena S., Subset Node Representation Learning over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2021 (Long)  
+    - _A very cool, useful **non-deep** fast learning algorithm for semi-novel practical graph learning problem_ 😎
+-  K Gillespie, I.C. Konstantakopoulos, **Guo X.**, Vasudevan VT., and Sethy A. "Improving device directedness classification of utterances with semantic lexical features." Speech, & Signal Processing (ICASSP)2020 (Short) 
+    -  _Detect whether the user is talking to Alexa. From my first internship, thanks to all teammates_ 🍻!
+-  **Guo X.**, Huang Y., Gamborino E., Tseng SH., Fu LC., and Yeh SL., "Inferring human feelings and desires for
+human-robot trust promotion." International Conference on Human-Computer Interaction (HCII)2019 (Long) 
+    - _Promoting human-robot trust by identifying human desire in conversations. Part of my master thesis. Missing Taipei so much 🧋_ 
+- Chiang SY., **Guo X.**, and Hu HW., "Real time self-localization of omni-vision robot by pattern match system." International Conference on Advanced Robotics and Intelligent Systems (ARIS) 2014 (Short) 
+    - _My very first paper when I was an undergrad, and devoted almost entire 3 years in making a team of cool [robots](https://www.youtube.com/watch?v=TWU0rhDw-DQ) from scratch (both software/hardware)[More Video](https://www.youtube.com/watch?v=vum8fPhUUZk)_ 🤖🤩
+
+## Manuscripts in Submission
+- **Guo X.**, Zhou B., Chen H., Verstyuk S., Skiena S., Submitted to The Proceedings of the National Academy of Sciences (PNAS)
+- **Guo X.**, Zhou B., Skiena S., plan to submit to KDD'24
+- **Guo X.**, Skiena S., Hierarchies over Vector Space: Orienting Word and Graph Embeddings (_A small cute idea, in submission_)
 
 ## Presentations
 - [WWW2022 Post-publication modification of News titles](https://www.youtube.com/watch?v=Yb0Wx1l8jak)
@@ -36,30 +69,3 @@ Graph representation learning, Deep learning applications for NLP/Dialogue Agent
 
 
 
-## Publications
-- Chen Z., **Guo X.**, Zhou B.*, Yang D., Skiena S., Accelerating Personalized PageRank Vector Computation, ACM Knowledge Discovery and Data Mining (KDD)2023 (Long)
-    - _Make faster PPR approximation by introducing theoretically justifiable one-line-change. *:corresponding author_
-- Borca-Tasciuc G., **Guo X.**, Bak S., Skiena S., Provable Fairness for Neural Network Models using Formal Verification, European Workshop on Algorithmic Fairnes 2023 (Short)
-    - _Proposed fairness metrics using Formal Verification to evaluate the neural classifiers fairness without any testing data sample_ 
-- Sultan SF., **Guo X.**, Skiena S., Low-Dimensional Genotype Embeddings for Predictive Models, ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2022 (Short)
-    - _Embed ~100K-dimensional SNPs of human chromosomes to a few hundreds dimensions while preserving predictive power and privacy._ 🧬
-- **Guo X.**, Zhou B., Skiena S., Subset Node Anomaly Tracking over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2022 (Long) 
-    - _Fast algorithm to track both subset node/graph-level anomlies over large dynamic weighted graphs_ 😎
-- **Guo X.**, Kondracki B., Nikiforakis N., S., Skiena S., Verba Volant, Scripta Volant: Understanding Post- publication Title Changes in News Outlets, ACM Web Conference (WWW) 2022 (Long) 
-    - _A cute investigation about why/how news agencies did post-publication modification_ 😀
-- **Guo X.**, Zhou B., Skiena S., Subset Node Representation Learning over Large Dynamic Graphs. ACM Knowledge Discovery and Data Mining (KDD)2021 (Long)  
-    - _A very cool, useful **non-deep** fast learning algorithm for semi-novel practical graph learning problem_ 😎
--  K Gillespie, I.C. Konstantakopoulos, **Guo X.**, Vasudevan VT., and Sethy A. "Improving device directedness classification of utterances with semantic lexical features." Speech, & Signal Processing (ICASSP)2020 (Short) 
-    -  _Detect whether user is talking to Alexa. From my first internship, thanks to all teammates_ 🍻!
--  **Guo X.**, Huang Y., Gamborino E., Tseng SH., Fu LC., and Yeh SL., "Inferring human feelings and desires for
-human-robot trust promotion." International Conference on Human-Computer Interaction (HCII)2019 (Long) 
-    - _Promoting human-robot trust by identifying human-desire in converssations. Part of my master thesis. Missing Taipei so much 🧋_ 
-- Lin Z., Feng L., **Guo X.**, Yin R., Kwoh CK., C Xu. "COMET: Convolutional Dimension Interaction for Deep Matrix Factorization." ACM Transactions on Intelligent Systems and Technology(2023)
-- Chiang SY., **Guo X.**, and Hu HW., "Real time self-localization of omni-vision robot by pattern match system." International conference on Advanced Robotics and Intelligent Systems (ARIS) 2014 (Short) 
-    - _My very first paper when I was an undergrad, and devoted almost entire 3 years in making a team of cool [robots](https://www.youtube.com/watch?v=TWU0rhDw-DQ) from scratch (both software/hardware)[More Video](https://www.youtube.com/watch?v=vum8fPhUUZk)_ 🤖🤩  
-
-## Manuscripts in submission
--  **Guo X.**, Zhou B., Skiena S., Anonymous submission to CIKM23
-- **Guo X.**, Skiena S., Hierarchies over Vector Space: Orienting Word and Graph Embeddings (_A small cute idea, in submission_)
-- **Guo X.**, Jones JJ., Skiena S., The Power of Self-Description: How Personal Biographies Inform and Evolve (_An interesting work on novel Twitter data about self-identity, in submission_ )
-- **Guo X.**, Zhou B., Chen H., Verstyuk S., Skiena S., Why Do Embedding Spaces Look as They do? (_An ambitious idea of embedding invariants, but rejected from ICLR22_ 😥 need revision)
