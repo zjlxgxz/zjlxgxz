@@ -29,7 +29,7 @@ Graph representation learning, Deep learning applications for NLP/Dialogue Agent
     - Topics: Dialogue directedness classification, Active learning, Pretraining (L)LM, Non-autoregressive (L)LM
 
 ## Academic Service
-- Program Committee LoG2023, KDD2022/23, CIKM2023, PAKDD2023, ICWSM2022/23
+- Program Committee LoG2023, KDD2022/23, CIKM2023, PAKDD2023/24, ICWSM2022/23
 
 ## Publications
 
