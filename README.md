@@ -29,7 +29,7 @@ Graph representation learning, Deep learning applications for NLP/Dialogue Agent
     - Topics: Dialogue directedness classification, Active learning, Pretraining (L)LM, Non-autoregressive (L)LM
 
 ## Academic Service
-- Program Committee LoG2023, KDD2022/23, CIKM2023, PAKDD2023/24, ICWSM2022/23
+- Program Committee LoG2023, KDD2022/23/24, CIKM2023, PAKDD2023/24, ICWSM2022/23/24
 
 ## Publications
 
@@ -58,9 +58,10 @@ human-robot trust promotion." International Conference on Human-Computer Interac
     - _My very first paper when I was an undergrad, and devoted almost entire 3 years in making a team of cool [robots](https://www.youtube.com/watch?v=TWU0rhDw-DQ) from scratch (both software/hardware)[More Video](https://www.youtube.com/watch?v=vum8fPhUUZk)_ 🤖🤩
 
 ## Manuscripts in Submission
-- **Guo X.**, Zhou B., Chen H., Verstyuk S., Skiena S., Submitted to The Proceedings of the National Academy of Sciences (PNAS)
-- **Guo X.**, Zhou B., Skiena S., plan to submit to KDD'24
-- **Guo X.**, Skiena S., Hierarchies over Vector Space: Orienting Word and Graph Embeddings (_A small cute idea, in submission_)
+- **Guo X.**, Wang S., Zhou B., Xiao Y., Skiena S., Submitted to KDD'24
+- Zhou B., Sun Y, Harikandeh H., **Guo X.**, Yang D., Xiao Y., Submitted to ICML'24
+- **Guo X.**, Zhou B., Chen H., Verstyuk S., Skiena S., In submission
+- **Guo X.**, Skiena S., Hierarchies over Vector Space: Orienting Word and Graph Embeddings, In submission (_A small cute idea, in submission_)
 
 ## Presentations
 - [WWW2022 Post-publication modification of News titles](https://www.youtube.com/watch?v=Yb0Wx1l8jak)
